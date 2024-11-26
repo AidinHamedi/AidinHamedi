@@ -4,7 +4,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/AidinHamedi/AidinHamedi)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi) (I chnages my name soooo my visitor badge got reset)
 
 [![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,c,cpp,cs,rust,python,javascript,html,css,md,fastapi,tensorflow,pytorch,anaconda,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,vscode,visualstudio,linux,windows,ubuntu,debian,regex,unity&theme=dark&perline=12)](https://skillicons.dev)
 
