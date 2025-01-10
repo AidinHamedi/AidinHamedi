@@ -26,7 +26,7 @@
   [![Pneumonia-Detection-Ai](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pneumonia-Detection-Ai&theme=tokyonight)](https://github.com/AidinHamedi/Pneumonia-Detection-Ai)
   [![Pytorch-Garbage-Classification-V2](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Garbage-Classification-V2&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Garbage-Classification-V2)
 
-  [![PyTorch-Project-Template](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=PyTorch-Project-Template&theme=tokyonight)](https://github.com/AidinHamedi/PyTorch-Project-Template)
+  [![Pytorch-Img-Classification-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Img-Classification-Trainer&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Img-Classification-Trainer)
   [![Pytorch-Garbage-Classification](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Garbage-Classification&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Garbage-Classification)
   
   <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
