@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi) <sup>(I chnaged my name soooo my visitor badge got reset)</sup>
 
 [![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,c,cpp,rust,python,javascript,html,css,md,fastapi,tensorflow,pytorch,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,vscode,visualstudio,linux,windows,ubuntu,debian,regex&theme=dark&perline=12)](https://skillicons.dev)
-#### **Im not experience in all of the things above but im familiar with them like the syntax, control flow, and etc... (Im just saying 🥲, Im amateur)**
+#### **Im not experienced in all of the things above but im familiar with them like the syntax, control flow, and etc... (Im just saying 🥲, Im amateur)**
 
 <h2><details>
   <summary>Github Stats ⚡</summary>
