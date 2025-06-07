@@ -10,7 +10,8 @@
 #### **Im not experienced in all of the things above but im familiar with them like the syntax, control flow, and etc... (Im just saying 🥲, Im amateur)**
 
 <h2><details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats ⚡</summary> 
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidinHamedi&theme=tokyonight" alt="⚠️Currently the strake card is down"/>
   
   ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidinHamedi\&theme=tokyonight&include_all_commits=false)
@@ -18,17 +19,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AidinHamedi&theme=tokyonight" alt=""/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AidinHamedi&theme=tokyo-night" alt=""/>
-  
-  #### My main repositories:
-  
-  [![Pneumonia-Detection-Ai](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pneumonia-Detection-Ai&theme=tokyonight)](https://github.com/AidinHamedi/Pneumonia-Detection-Ai)
-  [![Pytorch-Garbage-Classification-V2](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Garbage-Classification-V2&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Garbage-Classification-V2)
-
-  [![Pytorch-Img-Classification-Trainer](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Img-Classification-Trainer&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Img-Classification-Trainer)
-  [![Pytorch-Garbage-Classification](https://github-readme-stats.vercel.app/api/pin/?username=AidinHamedi&repo=Pytorch-Garbage-Classification&theme=tokyonight)](https://github.com/AidinHamedi/Pytorch-Garbage-Classification)
-  
-  <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f59d4&height=180&section=footer"/></a>
-  
 </details></h2>
