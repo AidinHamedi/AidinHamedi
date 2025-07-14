@@ -4,10 +4,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/AidinHamedi/AidinHamedi)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi) <sup>(I chnaged my name soooo my visitor badge got reset)</sup>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi)
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,git,c,cpp,rust,python,javascript,html,css,md,fastapi,tensorflow,pytorch,opencv,arduino,raspberrypi,bash,powershell,idea,pycharm,vscode,visualstudio,linux,windows,ubuntu,debian,arch,regex&theme=dark&perline=12)](https://skillicons.dev)
-#### **Im not experienced in all of the things above but im familiar with them like the syntax, control flow, and etc... (Im just saying 🥲, Im amateur)**
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,githubactions,c,cpp,rust,python,fastapi,tensorflow,pytorch,opencv,arduino,raspberrypi,vscode,zed,linux,windows,ubuntu,arch&theme=dark&perline=12)](https://skillicons.dev)
+
 
 <h2><details>
   <summary>Github Stats ⚡</summary> 
@@ -16,7 +16,7 @@
   
   ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidinHamedi\&theme=tokyonight&include_all_commits=false)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&exclude_repo=Pneumonia-Detection-Ai&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AidinHamedi&theme=tokyonight" alt=""/>
 </details></h2>
