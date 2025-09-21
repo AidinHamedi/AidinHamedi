@@ -17,7 +17,7 @@
   
   ![Aydin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidinHamedi\&theme=tokyonight&include_all_commits=false)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&exclude_repo=Pneumonia-Detection-Ai&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidinHamedi&layout=donut&hide=Jupyter%20Notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AidinHamedi&theme=tokyonight" alt=""/>
 </details></h2>
