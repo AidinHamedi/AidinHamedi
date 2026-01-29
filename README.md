@@ -1,7 +1,6 @@
 <h1 align="left">Hey There! 👋</h1>
 
 **I’m Aidin**, a socially awkward programmer dabbling in everything but web and game dev — just chasing what clicks. \
-📚 Still a student, so I might not always be active here. Thanks for dropping by!
 
 ![](https://hit.yhype.me/github/profile?user_id=108932477)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/AidinHamedi/AidinHamedi)
