@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/AidinHamedi/AidinHamedi)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AidinHamedi)
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,python,tensorflow,pytorch,opencv,arduino,raspberrypi,vscode,zed,linux,windows,ubuntu,arch,hyprland&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,python,tensorflow,pytorch,opencv,zed,linux,arch,hyprland,arduino,raspberrypi&theme=dark&perline=12)](https://skillicons.dev)
 
 
 <h2><details>
